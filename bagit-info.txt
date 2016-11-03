@@ -1,0 +1,7 @@
+Source-Organization: Tauranga City Library
+Organization-Address: 91 Willow St, Tauranga 3110, New Zealand
+Contact-Phone: +64.7.5777177
+Contact-Email: library@tauranga.govt.nz
+External-Description: Tauranga Girls College Sports
+External-Identifier: 76dfb34d-66aa-416e-b07c-011f6a740c86
+

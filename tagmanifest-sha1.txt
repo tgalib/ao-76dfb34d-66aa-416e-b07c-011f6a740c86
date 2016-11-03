@@ -1,0 +1,14 @@
+58b16e0c3f03696c0d87c63801fbbab699615007  ./bagit-info.txt
+bfc2dd1d3d9646255618829b7c12880781a700d1  ./bagit.txt
+67896fabaef957bba35415b6620fc81bcbfc776a  ./CONTRIBUTOR.md
+99637bbf9064f69ca296c38b316e1bbeb6d8edf8  ./LICENCE.md
+162be8f62c2946d757258cf6061b22821e3a9376  ./LICENSE.md
+27c51e8db4b875ceeedc7b10894cf06d988bfd1e  ./manifest-md5.txt
+375ecf1d09204e145532bd40315f3515a178a799  ./manifest-sha1.txt
+9c5810805c66a25545553b6f90b94f73c3dff152  ./manifest-sha256.txt
+c03ae15119010e5a35919bd79f5696ace495e21c  ./POLICY.md
+43f0ca9d313dd7387541811e0a69ec13286eefc8  ./README.md
+5b8726343d1b6d43f545fe7ac00d1b1391597687  ./metadata/description.json
+162be8f62c2946d757258cf6061b22821e3a9376  ./metadata/LICENSE.md
+adc60c5796c4204ea6621dde4634fdec082eb2cb  ./metadata/manifest.json
+1339a35435bd2f8033111fb48f2f7c435d70adf1  ./metadata/reference.bib
